@@ -29,3 +29,7 @@ Las skills solo trabajan con lo que les das o pueden consultar en el asistente: 
 ## Estado
 
 En desarrollo. Pendiente de probar con un caso docente completo.
+
+## Licencia
+
+Material docente bajo [Creative Commons Atribución 4.0 Internacional (CC BY 4.0)](LICENSE): puedes copiarlo, adaptarlo y reutilizarlo, también con fines comerciales, citando la autoría.
